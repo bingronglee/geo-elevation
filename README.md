@@ -124,9 +124,3 @@ geo-elevation/
    - 支持多組數據的批量插值。
 
 ---
-
-## **貢獻與聯繫**
-如果您對本專案有任何建議或想參與開發，歡迎提交 Issue 或 Pull Request！
-
-聯絡方式：
-- Email: [your_email@example.com
